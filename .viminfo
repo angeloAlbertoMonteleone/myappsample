@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1606218245,,"wq"
+|2,0,1606219616,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,20 +23,46 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"1	LINE	0
+	# Please enter a commit message to explain why this merge is necessary,
+	# especially if it merges an updated upstream into a topic branch.
+|3,0,1,1,2,0,1606219595,"# Please enter a commit message to explain why this merge is necessary,","# especially if it merges an updated upstream into a topic branch."
+""-	CHAR	0
+	#
+|3,1,36,0,1,0,1606219598,"#"
 
 # File marks:
-'0  15  0  ~/.git/COMMIT_EDITMSG
-|4,48,15,0,1606218245,"~/.git/COMMIT_EDITMSG"
+'0  2  10  ~/.git/MERGE_MSG
+|4,48,2,10,1606219616,"~/.git/MERGE_MSG"
+'1  15  0  ~/.git/COMMIT_EDITMSG
+|4,49,15,0,1606218245,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  2  10  ~/.git/MERGE_MSG
+|4,39,2,10,1606219616,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1606219529,"~/.git/MERGE_MSG"
+-'  15  0  ~/.git/COMMIT_EDITMSG
+|4,39,15,0,1606218245,"~/.git/COMMIT_EDITMSG"
 -'  15  0  ~/.git/COMMIT_EDITMSG
 |4,39,15,0,1606218245,"~/.git/COMMIT_EDITMSG"
 -'  6  1  ~/.git/COMMIT_EDITMSG
 |4,39,6,1,1606218072,"~/.git/COMMIT_EDITMSG"
+-'  6  1  ~/.git/COMMIT_EDITMSG
+|4,39,6,1,1606218072,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1606218004,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1606218004,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1606219608	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
 
 > ~/.git/COMMIT_EDITMSG
 	*	1606218240	0
